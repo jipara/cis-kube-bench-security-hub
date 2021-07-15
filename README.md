@@ -1,1 +1,0 @@
-# cis-kube-bench-security-hub
